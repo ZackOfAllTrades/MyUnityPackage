@@ -1,0 +1,8 @@
+{
+    "name": "com.microsoft.myunitypackage",
+    "version": "0.0.1",
+    "displayName": "MyUnityPackage",
+    "description": "We're Doin' it.",
+    "unity": "2021.1",
+    "unityRelease": "28f1"
+}
