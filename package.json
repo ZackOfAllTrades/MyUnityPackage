@@ -1,8 +1,11 @@
 {
     "name": "com.microsoft.myunitypackage",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "displayName": "MyUnityPackage",
     "description": "We're Doin' it.",
     "unity": "2021.1",
-    "unityRelease": "28f1"
+    "unityRelease": "28f1",
+    "dependencies": {
+        "com.microsoft.mrtk.graphicstools.unity": "0.4.13"
+    }
 }
